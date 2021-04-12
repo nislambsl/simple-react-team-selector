@@ -1,0 +1,21 @@
+.players{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center ;
+}
+.players h3 {
+    color: green;
+    font-weight: 700;
+}
+.players div{
+    padding-left: 10px;
+    margin-right: 10px;
+}
+.players img{
+    height: 300px;
+    width: 300px;
+    border-radius: 7px;
+}
